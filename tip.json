@@ -27,5 +27,20 @@
   "name": "Contributer Name",
   "gitHubURL": "Github URL",
   "descFileName":"tsTip004"
+},
+ {
+  "title": "TS Tips 005",
+  "desc": "Shor Description Of TS tip 005",
+  "name": "Contributer Name",
+  "gitHubUrl": "Github URL",
+   "descFileName":"tsTip005"
+  
+},
+{
+  "title": "TS Tips 006",
+  "desc": "Shor Description Of TS tip 006",
+  "name": "Contributer Name",
+  "gitHubURL": "Github URL",
+  "descFileName":"tsTip006"
 }
 ]
