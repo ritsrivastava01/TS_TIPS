@@ -3,7 +3,7 @@
   "desc": "Shor Description Of TS tip 001",
   "name": "Contributer Name",
   "gitHubUrl": "Github URL",
-  descFileName:"tsTip001"
+  "descFileName":"tsTip001"
   
 },
 {
@@ -11,14 +11,14 @@
   "desc": "Shor Description Of TS tip 002",
   "name": "Contributer Name",
   "gitHubURL": "Github URL",
-  descFileName:"tsTip002"
+  "descFileName":"tsTip002"
 },
  {
   "title": "TS Tips 003",
   "desc": "Shor Description Of TS tip 003",
   "name": "Contributer Name",
   "gitHubUrl": "Github URL",
-   descFileName:"tsTip003"
+   "descFileName":"tsTip003"
   
 },
 {
@@ -26,6 +26,6 @@
   "desc": "Shor Description Of TS tip 004",
   "name": "Contributer Name",
   "gitHubURL": "Github URL",
-  descFileName:"tsTip004"
+  "descFileName":"tsTip004"
 }
 ]
