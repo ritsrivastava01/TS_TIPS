@@ -2,13 +2,30 @@
   "title": "TS Tips 001",
   "desc": "Shor Description Of TS tip 001",
   "name": "Contributer Name",
-  "gitHubUrl": "Github URL"
+  "gitHubUrl": "Github URL",
+  descFileName:"tsTip001"
   
 },
-
 {
   "title": "TS Tips 002",
   "desc": "Shor Description Of TS tip 002",
   "name": "Contributer Name",
-  "gitHubURL": "Github URL"
-}]
+  "gitHubURL": "Github URL",
+  descFileName:"tsTip002"
+},
+ {
+  "title": "TS Tips 003",
+  "desc": "Shor Description Of TS tip 003",
+  "name": "Contributer Name",
+  "gitHubUrl": "Github URL",
+   descFileName:"tsTip003"
+  
+},
+{
+  "title": "TS Tips 004",
+  "desc": "Shor Description Of TS tip 004",
+  "name": "Contributer Name",
+  "gitHubURL": "Github URL",
+  descFileName:"tsTip004"
+}
+]
