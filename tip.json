@@ -1,14 +1,14 @@
 [{
   "titile": "TS Tips 001",
-  "Desc": "Shor Description Of TS tip 001",
-  "Name": "Contributer Name",
-  "GitHubURL": "Github URL"
+  "desc": "Shor Description Of TS tip 001",
+  "name": "Contributer Name",
+  "gitHubUrl": "Github URL"
   
 },
 
 {
   "titile": "TS Tips 002",
-  "Desc": "Shor Description Of TS tip 002",
-  "Name": "Contributer Name",
-  "GitHubURL": "Github URL"
+  "desc": "Shor Description Of TS tip 002",
+  "name": "Contributer Name",
+  "gitHubURL": "Github URL"
 }]
