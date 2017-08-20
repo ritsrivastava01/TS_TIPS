@@ -42,5 +42,12 @@
   "name": "Contributer Name",
   "gitHubURL": "Github URL",
   "descFileName":"tsTip006"
+},
+{
+  "title": "TS Tips Ramanuj",
+  "desc": "Hello bhaiya",
+  "name": "Ramanuj",
+  "gitHubURL": "https://github.com/ramanujprasad",
+  "descFileName":"tsTipRam"
 }
 ]
