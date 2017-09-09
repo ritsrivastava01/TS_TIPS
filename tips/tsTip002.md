@@ -7,14 +7,24 @@ var fibonacci = function(n) {
 }
 ```
 
+
 ```js
-var fibonacci = (function() {
-  var cache = [0, 1]; // cache the value at the n index
-  return function(n) {
-    if (cache[n] === undefined) {
-      for (var i = cache.length; i <= n; ++i) {cache[i] = cache[i - 1] + cache[i - 2];}
-    }
-    return cache[n];
-  }
-})();
+var fibonacci = function(n) {
+  return n < 2 ? n : fibonacci(n - 1) + fibonacci(n - 2);
+}
+```
+
+```js
+var fibonacci = function(n) {
+  return n < 2 ? n : fibonacci(n - 1) + fibonacci(n - 2);
+}
+```
+
+```js
+var fibonacci = function(n) {
+  return n < 2 ? n : fibonacci(n - 1) + fibonacci(n - 2);
+}
+var fibonacci = function(n) {return n < 2 ? n : fibonacci(n - 1) + fibonacci(n - 2);}
+```
+
 
