@@ -1,9 +1,9 @@
 [{
-  "title": "TS Tips 001",
-  "desc": "Shor Description Of TS tip 001",
-  "name": "Contributer Name",
-  "gitHubUrl": "Github URL",
-  "descFileName":"tsTip001"
+  "title": "let Vs const",
+  "desc": "Diffrence between 'let' and 'const' variables",
+  "name": "Ritesh Srivastava",
+  "gitHubUrl": "https://github.com/ritsrivastava01",
+  "descFileName":"tip_24122017"
   
 },
 {
