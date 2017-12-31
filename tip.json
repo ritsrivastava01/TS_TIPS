@@ -1,11 +1,4 @@
-[{
-  "title": "let Vs const",
-  "desc": "Diffrence between 'let' and 'const' variables",
-  "name": "Ritesh Srivastava",
-  "gitHubUrl": "https://github.com/ritsrivastava01",
-  "descFileName":"tip_24122017"
-  
-},
+[
 {
   "title": "About TypeScript",
   "desc": "Basics of Typescript",
@@ -13,41 +6,35 @@
   "gitHubUrl": "https://github.com/ritsrivastava01",
   "descFileName":"tip_31122017"
 },
+  {
+    "title": "let Vs const",
+    "desc": "Difference between 'let' and 'const' variables",
+    "name": "Ritesh Srivastava",
+    "gitHubUrl": "https://github.com/ritsrivastava01",
+    "descFileName":"tip_24122017"
+
+  },
  {
-  "title": "TS Tips 003",
-  "desc": "Shor Description Of TS tip 003",
-  "name": "Contributer Name",
-  "gitHubUrl": "Github URL",
-   "descFileName":"tsTip003"
+  "title": "Class",
+  "desc": "Shote description about classes in Typescript",
+   "name": "Ritesh Srivastava",
+   "gitHubUrl": "https://github.com/ritsrivastava01",
+   "descFileName":"tip_30122017"
   
 },
 {
-  "title": "TS Tips 004",
-  "desc": "Shor Description Of TS tip 004",
-  "name": "Contributer Name",
-  "gitHubURL": "Github URL",
-  "descFileName":"tsTip004"
+  "title": "Access modifiers",
+  "desc": "Shot description on access modifiers in TypeScript",
+  "name": "Ritesh Srivastava",
+  "gitHubUrl": "https://github.com/ritsrivastava01",
+  "descFileName":"tip_29122017"
 },
  {
-  "title": "TS Tips 005",
-  "desc": "Shor Description Of TS tip 005",
-  "name": "Contributer Name",
-  "gitHubUrl": "Github URL",
-   "descFileName":"tsTip005"
+  "title": "Interface and Inheritance in Typescript",
+  "desc": "Interface and Inheritance with short example",
+   "name": "Ritesh Srivastava",
+   "gitHubUrl": "https://github.com/ritsrivastava01",
+   "descFileName":"tip_28122017"
   
-},
-{
-  "title": "TS Tips 006",
-  "desc": "Shor Description Of TS tip 006",
-  "name": "Contributer Name",
-  "gitHubURL": "Github URL",
-  "descFileName":"tsTip006"
-},
-{
-  "title": "TS Tips Ramanuj",
-  "desc": "Hello bhaiya",
-  "name": "Ramanuj",
-  "gitHubURL": "https://github.com/ramanujprasad",
-  "descFileName":"tsTipRam"
 }
 ]
