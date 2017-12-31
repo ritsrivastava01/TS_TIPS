@@ -5,7 +5,7 @@ with the classical ones and move towards additions made to the standard.
 
 ## while
 
-```javascript
+```
 let index = 0;
 const array = [1,2,3,4,5,6];
 
@@ -17,7 +17,7 @@ while (index < array.length) {
 
 ## for (classical)
 
-```javascript
+```
 const array = [1,2,3,4,5,6];
 for (let index = 0; index < array.length, index++) {
   console.log(array[index]);
@@ -26,7 +26,7 @@ for (let index = 0; index < array.length, index++) {
 
 ## forEach
 
-```javascript
+```
 const array = [1,2,3,4,5,6];
 
 array.forEach(function(current_value, index, array) {
@@ -41,7 +41,7 @@ The last construct was useful, however, it doesn't return a new array which migh
 be undesirable for your specific case. `map` solves this by applying a function
 over every element and then returning the new array.
 
-```javascript
+```
 const array = [1,2,3,4,5,6];
 const square = x => Math.pow(x, 2);
 const squares = array.map(square);
@@ -58,7 +58,7 @@ From MDN:
 > The reduce() method applies a function against an accumulator and each element
 > in the array (from left to right) to reduce it to a single value.
 
-```javascript
+```
 const array = [1,2,3,4,5,6];
 const sum = (x, y) => x + y;
 const array_sum = array.reduce(sum, 0);
@@ -70,7 +70,7 @@ console.log(`The sum of array: ${array} is ${array_sum}`);
 
 Filters elements on an array based on a boolean function.
 
-```javascript
+```
 const array = [1,2,3,4,5,6];
 const even = x => x % 2 === 0;
 const even_array = array.filter(even);
@@ -81,7 +81,7 @@ console.log(`Even numbers in array ${array}: ${even_array}`);
 
 Got an array and want to test if a given condition is met in every element?
 
-```javascript
+```
 const array = [1,2,3,4,5,6];
 const under_seven = x => x < 7;
 
@@ -96,7 +96,7 @@ if (array.every(under_seven)) {
 
 Test if at least one element matches our boolean function.
 
-```javascript
+```
 const array = [1,2,3,9,5,6,4];
 const over_seven = x => x > 7;
 
