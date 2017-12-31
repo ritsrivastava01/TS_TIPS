@@ -7,11 +7,11 @@
   
 },
 {
-  "title": "TS Tips 002",
-  "desc": "Shor Description Of TS tip 002",
-  "name": "Contributer Name",
-  "gitHubURL": "Github URL",
-  "descFileName":"tsTip002"
+  "title": "About TypeScript",
+  "desc": "Basics of Typescript",
+  "name": "Ritesh Srivastava",
+  "gitHubUrl": "https://github.com/ritsrivastava01",
+  "descFileName":"tip_31122017"
 },
  {
   "title": "TS Tips 003",
