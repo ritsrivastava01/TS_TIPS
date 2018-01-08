@@ -38,7 +38,7 @@ Please also [squash](https://davidwalsh.name/squash-commits-git) your commits.
 Thats it, your tip will start contributing the the knowledgebase on this open source
 
 # Email your tip
-If you are not aware about the the process you can mail at your tip at ritsrivastava@gmial.com with following details:
+If you are not aware about the the process you can mail me your tip at ritsrivastava@gmail.com with following details:
 1. Json data
 2. tip file with correct format
 and will create the PR for you.
