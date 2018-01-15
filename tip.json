@@ -36,5 +36,13 @@
    "gitHubUrl": "https://github.com/ritsrivastava01",
    "descFileName":"tip_29122017"
   
+},
+   {
+  "title": "Generics",
+  "desc": "Create a date type that can work over a variety of types rather than a single one",
+   "name": "Ritesh Srivastava",
+   "gitHubUrl": "https://github.com/ritsrivastava01",
+   "descFileName":"tip_generics"
+  
 }
 ]
