@@ -52,5 +52,22 @@
    "gitHubUrl": "https://github.com/ritsrivastava01",
    "descFileName":"tip_enums"
   
+  },
+  {
+  "title": "Iterators",
+  "desc": "difference between for..of and for..in",
+   "name": "Ritesh Srivastava",
+   "gitHubUrl": "https://github.com/ritsrivastava01",
+   "descFileName":"tip_Iterators"
+  },
+  {
+  "title": "Symbols",
+  "desc": "Starting with ECMAScript 2015, new primitive data type added",
+   "name": "Ritesh Srivastava",
+   "gitHubUrl": "https://github.com/ritsrivastava01",
+   "descFileName":"tip_symbols"
+  
   }
+  
+  
 ]
