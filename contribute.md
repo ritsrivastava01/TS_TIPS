@@ -5,14 +5,14 @@ Add details of your tip in ['tips.json'](https://github.com/ritsrivastava01/TS_T
 ```json
 {
   "title": "<Title of tip>",
-  "desc": "Shot Description Of Tip",
+  "desc": "Short Description Of Tip",
   "name": "Contributer Name",
   "gitHubUrl": "Contributer Github URL",
   "descFileName":"<your main Tip file name which will put in 'tips folder'>"
   
 }
 ```
-**Recommendation of file name**: tip_<Date_Of _Submisssion in ddmmyyyy>.md format. eg :  tip_07122016.md
+**Recommendation of file name**: tip_<tip_file_name>.md format. eg :  tip_dataType.md
 
 ### Requirements
 
