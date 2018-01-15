@@ -44,5 +44,13 @@
    "gitHubUrl": "https://github.com/ritsrivastava01",
    "descFileName":"tip_generics"
   
-}
+},
+  {
+  "title": "Enum",
+  "desc": "Enums allow us to define a set of named constants.",
+   "name": "Ritesh Srivastava",
+   "gitHubUrl": "https://github.com/ritsrivastava01",
+   "descFileName":"tip_enums"
+  
+  }
 ]
